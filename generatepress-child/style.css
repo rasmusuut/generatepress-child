@@ -1,0 +1,100 @@
+/*
+Theme Name:   Rasmus GeneratePress-barntema
+Author:       Rasmus
+Template:     generatepress
+Version:      1.0.0
+*/
+
+body, .site-content {
+    background-color:  #4484ce;
+    color: white;
+}
+.inside-header, #primary-menu {
+    background-color:  #18314d;
+    color: white;
+}
+.main-title a {
+    color: white;
+}
+#site-navigation .menu.sf-menu li a {
+    color: white;
+}
+.site-footer {
+    background-color: #18314d;
+}
+.site-footer hr {
+    width: 100%;
+}
+.woocommerce-LostPassword.lost_password a {
+    color: white;
+}
+.woocommerce-MyAccount-navigation a, .entry-content a {
+    color: black;
+}
+.woocommerce-MyAccount-navigation a:hover, .entry-content a:hover {
+    color: white;
+}
+.main-title a:hover {
+    color: red;
+}
+.main-navigation ul.menu li a:hover {
+    color: red !important;
+}
+.woocommerce-loop-product__title {
+    color: white;
+}
+ul.products .price {
+    color: red !important; 
+    font-style: italic;
+    font-size: 15px !important;
+}
+ul.products li .add_to_cart_button {
+    background-color: white;
+    color: black; 
+}
+ul.products li .add_to_cart_button:hover {
+    background-color: black; 
+    color: white; 
+}
+.entry-title a, .entry-summary a, .entry-title {
+  color: black !important;
+}
+
+.entry-title a:hover, .entry-summary a:hover {
+  color: white;
+}
+.entry-date, .byline {
+    color: white; 
+}
+.author-name, .reply-title {
+    color: black; 
+}
+.author-name:hover {
+    color: white; 
+}
+.cat-links a, .comments-link a, .post-navigation a, .logged-in-as a{
+    color: black; 
+}
+.cat-links a:hover, .comments-link a:hover, .post-navigation a:hover, .logged-in-as a:hover {
+    color: white; 
+}
+.icon-categories svg,.icon-comments svg, .post-navigation .gp-icon svg{
+    fill: black;
+} 
+a.comments-link {
+    color: red;
+}
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+
+    
+
